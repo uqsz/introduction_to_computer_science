@@ -13,4 +13,4 @@ Simple notebooks made for Introduction to Computer Science course at AGH UST. Th
 
 ## Summary
 
-This README outlines the topics covered in the Introduction to Computer Science course at AGH UST. From basic loop structures and arrays to recursion and linked lists, students will gain a foundational understanding of essential concepts in computer science. Through lectures, practical sessions, assignments, and projects, students will develop both theoretical knowledge and practical skills necessary for further study and application in the field.
+From basic loop structures and arrays to recursion and linked lists, students will gain a foundational understanding of essential concepts in computer science. Through lectures, practical sessions, assignments, and projects, students will develop both theoretical knowledge and practical skills necessary for further study and application in the field.
